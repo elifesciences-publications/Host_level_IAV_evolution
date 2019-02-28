@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from McCrone et al., "Stochastic processes constrain the within and between host evolution of influenza virus". eLife, 2018. http://dx.doi.org/10.7554/eLife.35962
+
 # Influenza evolution within and between naturally occuring acute infections
 This repository holds the analysis used in *citation,2018* it relies heavily on our other repository [variant_pipeline](https://github.com/lauringlab/variant_pipeline) and the [HIVEr R package] (https://github.com/jtmccr1/HIVEr).
 
